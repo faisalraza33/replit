@@ -19,8 +19,8 @@ Track user history
 
 // Item class
 class Item {
-  constructor(name, price){
+  constructor(name, price) {
     this.name = name,
-    this.price = price,
+      this.price = price,
   }
 }
